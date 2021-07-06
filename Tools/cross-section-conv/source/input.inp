@@ -1,0 +1,5 @@
+1.	58. 						# projectile mass (m1) target mass (m2)
+10. 							# angle in the CM
+3He-58Ni-52-prot-a010.dat 		# input file with data
+1 8 							# colomns to be read, remmber this is python! index starts from 0. 
+LAB_3He-58Ni-52-prot-a010.out 		# outpue file name

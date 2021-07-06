@@ -1,0 +1,4 @@
+41 93 #Ztarg Atarg
+0.2 7. #Rmin=4.0;Rmax=7.0 [fm] Range radius of the nucleus
+5. # DeltaV0 , Vmin= min(U)-DeltaV0;Vmax= max(U)+DeltaV0  #VWSstep=5.;VWSmin=min(Ur)-50*VWSstep;VWSmax=min(Ur)+10*VWSstep
+0.5 1.8 #aWSmin=0.5;aWSmax=0.8

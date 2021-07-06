@@ -1,0 +1,3 @@
+11.	64.  # projectile mass (m1) target mass (m2)
+-1  LAB  # angle (deg) -- flag which reference frame -- CM or LAB             
+5 60 5   # if deg is negative will be made a range (INTEGER)  # theta initial    ; theta final  ; delta theta 

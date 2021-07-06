@@ -1,0 +1,4 @@
+python -m py_compile mini-chi2.py 
+mv ./__pycache__/mini-chi2.cpython-39.pyc ./../bin/_mini-chi2.pyc
+
+rm -r __pycache__

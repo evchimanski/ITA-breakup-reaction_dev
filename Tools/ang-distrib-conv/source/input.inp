@@ -1,0 +1,3 @@
+6.	209. 						# projectile mass (m1) target mass (m2)
+data-cm.dat 		# input file with data -- angular distributions
+data-lab.out 		# outpue file name  -- angular distributions
